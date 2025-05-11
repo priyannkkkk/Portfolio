@@ -1,7 +1,6 @@
 # Portfolio
-🎓 College student learning Python, GitHub, and building fun projects with real-world logic.
 
-# Hi, I'm Priya! 👋
+# Hi, I'm Priyank! 👋
 
 🎓 I'm a college student passionate about **Python programming**, **GitHub**, and **data science**. I love learning real-world tech skills through hands-on projects, and I'm always growing one commit at a time!
 
